@@ -1,0 +1,5 @@
+future
+markdown
+qgiscommons
+
+# test requirements
