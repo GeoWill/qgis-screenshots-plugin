@@ -48,6 +48,9 @@ def loadLayer(filename, name = None):
 
     return qgslayer
 
+def addLayer(layer):
+    QgsProject().instance().addMapLayer(loadLayer(layer))
+
 
 def loadLayerNoCrsDialog(filename, name=None):
     """ Tries to load a layer from the given file
