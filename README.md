@@ -9,3 +9,6 @@ Derived from https://github.com/boundlessgeo/qgis-lessons-plugin with the ambiti
 
 ### Devlopment environment notes
 
+After you've cloned this repository you can create a symlink from the plugin directory (`qgis-screenshots-plugin/screenshots/`) to where the QGIS plugin directory.
+
+    `ln -s path/to/dev/folder/qgis-screenshots-plugin/screenshots/ ~/.local/share/QGIS/QGIS3/profiles/default/python/plugins/screenshots`
