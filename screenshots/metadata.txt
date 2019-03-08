@@ -1,0 +1,17 @@
+[general]
+name=Screenshots Plugin
+description=Plugin to automatically take Screenshots
+about= Automate QGIS States and take a picture.
+version=0.1
+qgisMinimumVersion=3.0
+author=William Roper (Based on work by Victor Olaya)
+email=roper.william@gmail.com
+roles=desktop-qgis-plugin-sessions
+repository=https://github.com/GeoWill/qgis-screenshots-plugin
+tracker=https://github.com/GeoWill/qgis-screenshots-plugin/issues
+homepage=http://boundlessgeo.com
+icon=screenshot.gif
+class_name=ScreenshotsPlugin
+tags=plugins,screenshots
+experimental=True
+changelog=0.1 - Proof of concept

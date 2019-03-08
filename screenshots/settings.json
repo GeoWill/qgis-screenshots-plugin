@@ -1,0 +1,11 @@
+[
+{
+    "name":"BaseFolder",
+    "label": "Base folder for sessions and data",
+    "description": "Base folder for sessions repository and data. By default assumed created in home path",
+    "type": "folder",
+    "default": "qgissessions",
+    "group": "General"
+}
+]
+
